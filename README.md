@@ -39,6 +39,12 @@ Luego abre tu navegador en `http://localhost:8000`.
 - `respaldos/` — copias de seguridad del proyecto.
 - `index.html` — estructura principal de la página.
 
+## Objetivo
+
+- Mostrar mi trabajo y mi crecimiento como desarrollador.
+- Presentar proyectos con una estructura ordenada y visualmente clara.
+- Dar una primera impresión profesional a personas interesadas en mi perfil.
+
 ## Autor
 
 Sebastián Triviño
