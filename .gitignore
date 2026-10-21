@@ -7,6 +7,10 @@ node_modules/
 # Archivos de registro
 *.log
 
+# Archivos locales de configuración que no deben publicarse
+config.local.json
+respaldos/index-copia-vieja.html
+
 # Archivos del sistema operativo
 .DS_Store
 Thumbs.db
