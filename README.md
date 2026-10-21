@@ -7,6 +7,7 @@ Mi portafolio personal es una página web donde muestro mi perfil, proyectos y h
 - Presento información personal y académica.
 - Destaco proyectos y ejercicios desarrollados durante el programa.
 - Incluyo medios de contacto para futuras oportunidades laborales o colaboraciones.
+- La intención del sitio es reflejar una identidad visual clara y profesional para mi portafolio.
 
 ## Tecnologías
 
@@ -43,5 +44,10 @@ Luego abre tu navegador en `http://localhost:8000`.
 Sebastián Triviño
 
 [GitHub](https://github.com/trivino25954-code)
+
+## Contacto
+
+- Correo: sebastian.dev@example.com
+- GitHub: https://github.com/trivino25954-code
 
 ![Portafolio](https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=1200&q=80)
